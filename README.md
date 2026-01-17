@@ -1,2 +1,10 @@
 # sign-language-health-mvp
-This project is an MVP communication mediator that integrates with existing hospital and telemedicine platforms. It enables deaf and mute patients to interact with doctors using AI-assisted sign language translation and animatronic responses, improving accessibility while fitting seamlessly into current healthcare workflows.
+An MVP communication mediator that integrates with telemedicine platforms to assist deaf and mute patients by translating sign language into medical context for doctors and converting doctor responses into sign-language animations.
+## Project Modules
+- Sign Language Capture & Gesture Recognition
+- Context AI & Meaning Analysis
+- Avatar & Sign Animation Interface
+- Backend Integration & System Flow
+
+## Status
+🚧 Work in Progress (Student MVP)
